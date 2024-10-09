@@ -9,5 +9,6 @@ Save points. A commit is a version of the code that I want to save.
 <li>git push -> Push my commits to github </li>
 <li>git pull -> Download the repository version from github </li>
 <li>git reset --hard (commit hash) -> Change code to the version that's on the commit</li>
+<li>git log -> Shows the commit history</li>
 </ul>
 
